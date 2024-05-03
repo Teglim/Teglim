@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... JavaScript, Python
 - 💞️ I’m looking to collaborate on ... Games, Teaching Materials, and Web Applications
 - 📫 How to reach me ... X: @teglim_studio  Feel free to send me a DM.
-- 😄 Pronouns: ... *otaku*
+- 😄 Pronouns: ... *anime otaku*
 - ⚡ Fun fact: ... I recently married the C language.  But she always throws up errors:(
 
 <!---
