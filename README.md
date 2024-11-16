@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Teglim
-- 👀 I’m interested in ... Software Developments
-- 🌱 I’m currently learning ... JavaScript, Python
-- 💞️ I’m looking to collaborate on ... Games, Teaching Materials, and Web Applications
-- 📫 How to reach me ... X: @teglim_studio  Feel free to send me a DM.
-- 😄 Pronouns: ... *anime otaku*
-- ⚡ Fun fact: ... I recently married the C language.  But she always throws up errors:(
+- @Teglimです
+- ここはプロトタイプも置くので、それはPythonで書いてるかも
+- 最近の趣味は、ちょっと欲しい機能のあるアプリをごく小規模で作ることです
 
 <!---
 Teglim/Teglim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
