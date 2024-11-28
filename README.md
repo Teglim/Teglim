@@ -1,6 +1,6 @@
 - @Teglimです
-- ここはプロトタイプも置くので、それはPythonで書いてるかも
-- 最近の趣味は、ちょっと欲しい機能のあるアプリをごく小規模で作ることです
+- C++ / HTML + CSS + JavaScript / Python に興味があります
+- 最近の趣味は、ちょっと欲しい機能のあるアプリを小規模で作ることです
 
 <!---
 Teglim/Teglim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
